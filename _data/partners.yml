@@ -1,0 +1,13 @@
+- 
+  group: "Platinum Sponsor"
+  elements: 
+    - {name: "Ironside", description: "Consulting", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "dark_logo.png"}
+- 
+  group: "Gold Sponsors"
+  elements: 
+    - {name: "Tynopex", description: "Tynopex", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "dark_logo.png", width: "120px"}
+- 
+  group: "Key Partners"
+  elements: 
+    - {name: "Akindi", description: "Selenium", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "dark_logo.png"}
+    - {name: "Pillowcase Racing", description: "Custom Drone Builds", link: "http://lviv.TBUS.org.ua", imageUrl: "dark_logo.png"}

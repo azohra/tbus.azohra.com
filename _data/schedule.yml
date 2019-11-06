@@ -1,0 +1,211 @@
+-
+  date: "2017-07-07"
+  dateReadable: "Friday, July 7"
+  tracks:
+    - {title: "Arrival", color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "17:00",
+      endTime: "17:30",
+      sessionIds: [orientation],
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:00",
+        sessionIds: [safety],
+    }
+    - {
+      startTime: "18:00",
+      endTime: "19:00",
+      sessionIds: [break]
+    }
+    - {
+      startTime: "19:00",
+      endTime: "20:30",
+      sessionIds: [dinner]
+    }
+    - {
+      startTime: "20:30",
+      endTime: "21:30",
+      sessionIds: [icebreakers]
+    }
+    - {
+      startTime: "21:30",
+      endTime: "22:30",
+      sessionIds: [harleytalk]
+    }
+
+-
+  date: "2017-07-08"
+  dateReadable: "Saturday, July 8"
+  tracks:
+    - {title: "Technical", color: "#90be4e"}
+    - {title: "Leadership", color: "#03a9f4"}
+    - {title: "Dog", color: "#EE7459"}
+  timeslots:
+    - {
+      startTime: "9:00",
+      endTime: "10:00",
+      sessionIds: [yoga, placeholder, garbagefinding]
+    } 
+    - {
+      startTime: "10:00",
+      endTime: "11:00",
+      sessionIds: [opening-keynote, placeholder, garbageeating]
+    }   
+    - {
+      startTime: "11:00",
+      endTime: "11:45",
+      sessionIds: [python-to-cpp, hooping, garbagelove]
+    }
+    - {
+      startTime: "12:00",
+      endTime: "12:45",
+      sessionIds: [clog, tub-half-full, whatif]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "14:45",
+      sessionIds: [lunch]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "14:45",
+      sessionIds: [some-like-it-knot, leadership-in-a-vacuum]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "15:45",
+      sessionIds: [bunflf, youmad]
+    }
+    - {
+      startTime: "16:00",
+      endTime: "16:45",
+      sessionIds: [you-suck-at-grammar, wellactually]
+    }
+    - {
+      startTime: "17:00",
+      endTime: "17:45",
+      sessionIds: [puzzles]
+    }
+    - {
+      startTime: "17:45",
+      endTime: "18:30",
+      sessionIds: [afternoon-keynote-1]
+    }
+    - {
+      startTime: "19:30",
+      endTime: "20:30",
+      sessionIds: [dinner-and-wine]
+    }
+    - {
+      startTime: "21:00",
+      endTime: "22:30",
+      sessionIds: [stories]
+    }
+    - {
+      startTime: "22:30",
+      endTime: "23:30",
+      sessionIds: [dingokiller]
+    }
+
+-
+  date: "2017-07-09"
+  dateReadable: "Sunday, July 9"
+  tracks:
+    - {title: "Technical", color: "#90be4e"}
+    - {title: "Leadership", color: "#03a9f4"}
+    - {title: "Dog", color: "#EE7459"}
+  timeslots:
+    - {
+      startTime: "9:30",
+      endTime: "10:15",
+      sessionIds: [funrun],
+    }
+    - {
+      startTime: "10:15",
+      endTime: "11:00",
+      sessionIds: [placeholder, settingfire]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "11:45",
+      sessionIds: [sick-eyes, team-building]
+    }
+    - {
+      startTime: "12:00",
+      endTime: "12:45",
+      sessionIds: [floor-is-a-teacher, leadership-lime]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "14:45",
+      sessionIds: [lunch]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "14:45",
+      sessionIds: [pitch-talk, lindsaytalk]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "15:45",
+      sessionIds: [pitch-singing, placeholder]
+    }
+    - {
+      startTime: "16:00",
+      endTime: "16:45",
+      sessionIds: [drones, adamtalk]
+    }
+    - {
+      startTime: "17:00",
+      endTime: "17:45",
+      sessionIds: [tiedye]
+    }
+    - {
+      startTime: "17:45",
+      endTime: "18:30",
+      sessionIds: [afternoon-keynote-2]
+    }
+    - {
+      startTime: "19:30",
+      endTime: "20:30",
+      sessionIds: [dinner-kinkerzoink]
+    }
+    - {
+      startTime: "21:00",
+      endTime: "22:30",
+      sessionIds: [pitch-training-presentations]
+    }
+    - {
+      startTime: "22:30",
+      endTime: "23:30",
+      sessionIds: [film-fest]
+    }
+
+-
+  date: "2017-07-10"
+  dateReadable: "Monday, July 10"
+  tracks:
+    - {title: "Workshops", color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "11:00",
+      endTime: "12:30",
+      sessionIds: [lockpicking]
+    }
+    - {
+      startTime: "12:30",
+      endTime: "13:30",
+      sessionIds: [lunch]
+    }
+    - {
+      startTime: "13:30",
+      endTime: "14:30",
+      sessionIds: [break]
+    }
+    - {
+      startTime: "14:30",
+      endTime: "15:30",
+      sessionIds: [ending-keynote]
+    }

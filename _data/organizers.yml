@@ -1,0 +1,10 @@
+- 
+  group: "Main organizer"
+  elements: 
+    - {name: "TBUS", description: "TBUS", link: "http://tbus.github.io", imageUrl: "dark_logo.png"}
+- 
+  group: "Co-organizers"
+  elements: 
+    - {name: "Azohra", description: "Next Generation Software Consulting", link: "http://azohra.com", imageUrl: "dark_logo.png"}
+    - {name: "Test Cipher", description: "Baller Test Automation Frameworks", link: "http://test-cipher.com", imageUrl: "dark_logo.png"}
+    - {name: "Mixed Productions", description: "Music & Video Production", link: "http://mixedproductions.ca", imageUrl: "dark_logo.png"}

@@ -1,0 +1,319 @@
+- id: orientation
+  title: "Orientation"
+  description: |
+    <p>
+      All attendees are required to attend the orientation.
+    </p>
+  subtype: presentation
+  speakers: [jamie]
+  language: en
+  complexity: "Beginner"
+
+- id: safety
+  title: "Safety: the Giraffe in the Room"
+  description: |
+    <p>
+      All attendees are required to attend the safety briefing.
+    </p>
+  subtype: presentation
+  speakers: [ted]
+  language: en
+  complexity: "Beginner"
+
+- id: coffee
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+
+- id: funrun
+  title: "1 to 100k Fun* Run"
+  place: "Island"
+  description: |
+    <p>
+      Bond with your fellow attendees over a 1k fun run around the perimeter of
+      the island.
+    </p>
+
+    <p>
+      Still going? No problem! A circle never ends and neither do you. Keep
+      running until you drop, or until the island drops you.
+    </p>
+
+    <p>*: conference organizers cannot be held accountable for any fun or lack
+    thereof that is or is not had on this run.</p>
+
+- id: lunch
+  title: "Lunch Break"
+  place: "Dining room"
+
+- id: dinner
+  title: "Dinner"
+  place: "Dining room"
+
+- id: dinner-kinkerzoink
+  title: "Dinner by Chef Franz K"
+  place: "Dining room"
+
+- id: film-fest
+  title: "Snapchat® Short Film Festival"
+
+- id: dingokiller
+  title: "Disco Dance Party with DJ Dingokiller"
+  speakers: [dingokiller]
+
+- id: youmad
+  title: "You Mad, Ted? Morale in the Age of Social Media"
+  speakers: [allegra]
+
+- id: wellactually
+  title: "Well Actually… How to Let Others Know They're Wrong"
+  speakers: [matt]
+
+- id: dinner-and-wine
+  title: "Dinner and Ontario Wine Pairings with Sommelier Madeleine"
+  place: "Dining room"
+  speakers: [muffin]
+
+- id: bunflf
+  title: Implementing the BUNFLF Security Model in Your Organization
+  description: |
+    <p>
+      Any modern security practitioner will sing the praises of BUNFLF, and
+      after this presentation you will too. Katie will break town the key
+      benefits and challenges of BUNFLF implementation, including practical
+      tips, an example SWOT analysis, and anecdotes from her own, extensive,
+      career.
+    </p>
+
+    <p>
+      This presentation will assume a basic understanding of security
+      best-practices such as OWASP, DiD, soc-eng, the principle of
+      least-attack-surface-area, and cloud-based service federation.
+    </p>
+  subtype: presentation
+  speakers: [katie]
+  language: en
+  complexity: "Intermediate"
+
+- id: python-to-cpp
+  title: Python to C++ and Back Again
+  description: |
+    <p>
+      Python and C++ may seem like mortal enemies at first, with a little bit of
+      love and care they can be tricked into playing well together.
+    </p>
+
+    <p>
+      In this session, Ted and David will use Python 3.6, CFFI, and Clang to put
+      together a demo which can’t be missed!
+    </p>
+  subtype: presentation
+  speakers: [wolever, ted]
+  language: en
+  complexity: "Intermediate"
+
+- id: some-like-it-knot
+  title: Some Like it Knot
+  description: |
+    Learn about the exciting world of knotting. Your shoe laces will never come
+    undone again!
+  subtype: presentation
+  speakers: [wolever]
+  language: en
+  complexity: "Intermediate"
+
+- id: tub-half-full
+  title: The Tub's Half Full
+  description: |
+    Resource management and product delivery in a fluidly constrained environment.
+  subtype: presentation
+  speakers: [vic]
+  language: en
+  complexity: "Intermediate"
+
+- id: puzzles
+  title: "Puzzles: an Analytical Approach (panel)"
+  description: |
+    <p>
+      Panelists will discuss their own unique approaches to puzzle-solving, and
+      have a conversation around the applicability of puzzle solving techniques
+      to every day life.
+    </p>
+  subtype: panel
+  speakers: [
+    allegra,
+    katie,
+    vic,
+    justin,
+  ]
+  language: en
+  complexity: "Intermediate"
+
+- id: sick-eyes
+  title: "Sick Eyes, Bro!"
+  speakers: [allegra]
+
+- id: hooping
+  title: Hula Hooping your Way to Success
+  description: |
+    <p>
+      Hard day at work? Stressed by tight deadlines? Not living up to your own
+      expectations? Singer, dancer, and inspirational speaker Jamie
+      "Goldierocks" Joong-Watts will spin you 'round on a whirlwind tour of
+      therapeutic hula-hoop techniques you can use when you're feeling like
+      a square peg in a round hoop.
+    </p>
+
+    <p>
+      Beginners and experts alike will have something to learn from this
+      presentation, and we'll be starting with a through review of the basics
+      (ab-spin, hip continuation flick, bracelet twist, and of course the ankle
+      start) so even first-timers will have no trouble following along.
+    </p>
+
+    <p>
+      BYOH, or borrow one of Jamie's!
+    </p>
+  subtype: presentation
+  speakers: [jamie]
+  complexity: "Beginner"
+
+- id: leadership-in-a-vacuum
+  title: Leadership in a Vacuum
+  description:
+  speakers: [nick]
+
+- id: floor-is-a-teacher
+  title: The Floor is a Teacher
+  description:
+  speakers: [nick]
+
+- id: clog
+  title: "clog Your Life: Tracking Your Burritos and Beyond"
+  description:
+  speakers: [hyfen]
+
+- id: yoga
+  title: "Morning Yoga"
+  description: "Ashtanga inspired morning flow. Get grounded, focused, and ready for a full day of learning and intrigue!"
+  speakers: [katie, vic]
+
+- id: you-suck-at-grammar
+  title: "You Suck at Grammar: That's Just a Fact."
+  speakers: [laura]
+
+- id: team-building
+  title: "Interactive Team Building Workshop"
+  speakers: [gavin]
+
+- id: leadership-lime
+  title: "Leadership is Like a Lime"
+  speakers: [vic, justin]
+
+- id: drones
+  title: "Drone Racing Primer"
+  speakers: [p]
+
+- id: lockpicking
+  title: "Lock Picking with P"
+  speakers: [p]
+
+- id: dogdye
+  title: "Dog Coloring and Beautifying"
+  speakers: [jessii, penny]
+
+- id: dogwash
+  title: "Dog Washing and Grooming"
+  speakers: [jessii, penny]
+
+- id: garbageeating
+  title: "How to Eat Garbage"
+  speakers: [hannibal]
+
+- id: garbagefinding
+  title: "How to Find Garbage"
+  speakers: [hannibal]
+
+- id: garbagelove
+  title: "Garbage: A Love Story"
+  speakers: [hannibal]
+
+- id: whatif
+  title: "But what if it was for dogs?"
+  speakers: [hannibal]
+
+- id: placeholder
+  title: TBD
+  description:
+  subtype: presentation
+  speakers: []
+  complexity: "Beginner"
+
+- id: opening-keynote
+  title: "Opening Keynote: The Fiddly Bits"
+  description:
+  subtype: keynote
+  speakers: [ted]
+
+- id: afternoon-keynote-1
+  title: "Keynote: I Am Not the Nurse: Women in Medicine"
+  description:
+  subtype: keynote
+  speakers: [jnet]
+
+- id: afternoon-keynote-2
+  title: "Keynote: Secret Guest Speaker"
+  description:
+  subtype: keynote
+  speakers: []
+
+- id: ending-keynote
+  title: Closing Keynote
+  description:
+  subtype: keynote
+  speakers: [justin]
+
+- id: stories
+  title: "xvzf: offline - stories about disconnecting"
+  description: "True, personal stories told by TBUS attendees."
+  speakers: [wolever]
+
+- id: pitch-training-presentations
+  title: "Pitch Boot Camp: Presentations"
+
+- id: pitch-talk
+  title: "Pitch Boot Camp: Talk in a Room and Have People Care"
+  speakers: [konoff]
+
+- id: pitch-singing
+  title: "Pitch Boot Camp: Sing in a Room and Have People Care"
+  speakers: [jamie]
+
+- id: icebreakers
+  title: "Icebreakers and Trust Falls"
+  speakers: [gavin]
+
+- id: lindsaytalk
+  title: "Lindsay (TBD)"
+  speakers: [lindsay]
+
+- id: harleytalk
+  title: "Comfortably Making Smalltalk for Collaboration with Hand Puppets"
+  speakers: [harley]
+
+- id: settingfire
+  title: "Setting Fire to the Small Things"
+  speakers: [harley]
+
+- id: adamtalk
+  title: "Adam (TBD)"
+  speakers: [adam]
+
+- id: tiedye
+  title: "Tie or Dye: Crafting with an Attitude"
+  speakers: [jamie]
+
+- id: break
+  title: "Break"
+  speakers: []

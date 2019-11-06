@@ -1,0 +1,42 @@
+- 
+  id: 0
+  name: "Justin"
+  surname: "Watts"
+  company: "Loblaw Digital"
+  title: "Team Lead - Internal Tooling"
+  thumbnailUrl: JustinWatts2.jpg
+  social: 
+    - {name: "github", link: "https://github.com/tk8817"}
+- 
+  id: 1
+  name: "Jamie"
+  surname: "Watts"
+  company: "Mixed Productions"
+  title: "Expert"
+  thumbnailUrl: JamieWatts.jpg
+  social: 
+    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "site", link: "http://zasadnyy.com/"}
+- 
+  id: 2
+  name: "Ted"
+  surname: "Campbell"
+  company: "Mozilla"
+  title: "Sr. Platform Engineer"
+  thumbnailUrl: TedCampbell.jpg
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "site", link: "http://andrusiv.com/"}
+- 
+  id: 3
+  name: "Katie"
+  surname: "Kleemola"
+  company: "Ecobee"
+  title: "Security Engineer"
+  thumbnailUrl: KatieKleemola.jpg
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "github", link: "https://github.com/ozasadnyy"}

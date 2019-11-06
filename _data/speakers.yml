@@ -1,0 +1,178 @@
+
+- 
+  id: wolever
+  name: "David"
+  surname: "Wolever"
+  company: "Akindi"
+  title: "CTO"
+  bio: |
+    <p>
+      David is a Pythonista from Toronto, Canada. He's co-founder of both
+      <a href="https://pycon.ca" target="_blank">PyCon Canada</a> – Canada's
+      regional Python conference – and
+      <a href="https://akindi.com" target="_blank">Akindi.com</a> – a small
+      company that's making multiple-choice bubble sheet tests a bit less
+      terrible. Say hi on Twitter:
+      @<a href="https://twitter.com/wolever" target="_blank">wolever!</a>
+    </p>
+  thumbnailUrl: DavidWolever.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/wolever"}
+    - {name: "github", link: "https://github.com/wolever"}
+    - {name: "facebook", link: "https://facebook.com/wolever"}
+
+- 
+  id: ted
+  name: "Ted"
+  surname: "Campbell"
+  company: "Mozilla"
+  title: "Sr. Software Engineer"
+  bio: ""
+  thumbnailUrl: TedCampbell.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "twitter", link: "https://twitter.com/tynopex"}
+    - {name: "github", link: "https://github.com/tynopex"}
+
+- 
+  id: katie
+  name: "Katie"
+  surname: "Kleemola"
+  company: "Ecobee"
+  title: "Security Engineer"
+  bio: ""
+  thumbnailUrl: KatieKleemola.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/katharineaudrey"}
+
+- 
+  id: jamie
+  name: "Jamie"
+  surname: "Watts"
+  company: "Mixed Productions"
+  title: "Actor"
+  bio: "Jamie 'Goldirocks' Watts is an actor, dancer, and eductator."
+  thumbnailUrl: JamieWatts.jpg
+  rockstar: true
+
+- 
+  id: matt
+  name: "Matthew"
+  surname: "Culver"
+  company: "CompCure LLC"
+  title: "Operator"
+  bio: "Matt has over 25 experience in information technology and related fields. By day, he specializes in data warehousing and operations management."
+  thumbnailUrl: MatthewCulver.jpg
+  rockstar: true
+
+- id: vic
+  name: "Victoria"
+  surname: "Mothersill"
+  company: "Stereo D"
+  title: "Official Opposition"
+  bio: ""
+  thumbnailUrl: Vic.png
+  rockstar: true
+
+- id: nick
+  name: "Nick"
+  surname: "Mack"
+  title: "Director of Information Technology"
+  thumbnailUrl: Nick.png
+
+#- id: jessii
+#  name: "Jessii"
+#  surname: "Lee"
+#  title: "Animal Beauty Consultant"
+#  thumbnailUrl: Jessii.png
+
+- id: lindsay
+  name: Lindsay
+  surname: Millard
+  thumbnailUrl: Lindsay.png
+
+- id: gavin
+  name: Gavin
+  surname: Nowlan
+  thumbnailUrl: Gavin.png
+
+- id: jnet
+  name: Janette
+  surname: Speare
+  thumbnailUrl: Jnet.png
+
+- id: hyfen
+  name: Andrew
+  surname: Louis
+  thumbnailUrl: hyfen.jpg
+
+- id: laura
+  name: Laura
+  surname: Ess
+  company: "Deloitte"
+  thumbnailUrl: Laura.png
+
+- id: muffin
+  name: Madeleine
+  surname: Hayes
+  thumbnailUrl: Muffin.png
+
+- id: allegra
+  name: Allegra
+  surname: Sheppardieu
+  thumbnailUrl: Allegra.jpg
+
+- id: harley
+  name: Heather
+  surname: Keppler
+  thumbnailUrl: Harley.jpg
+
+- id: adam
+  name: Adam
+  surname: Fabicki
+  thumbnailUrl: Adam.jpg
+
+- id: p
+  name: Andrew
+  surname: Peleikis
+  thumbnailUrl: AndrewPeleikis.jpg
+
+- id: penny
+  name: Penny
+  surname: Culversill
+  thumbnailUrl: Penny.jpg
+
+- id: konoff
+  name: Andrew
+  surname: Konoff
+  thumbnailUrl: Konoff.jpg
+
+- id: dingokiller
+  name: DJ Dingokiller
+  thumbnailUrl: Dingokiller.jpg
+
+- id: hannibal
+  name: Hannibal
+  surname: Watts
+  thumbnailUrl: Hannibal.jpg
+
+- id: emily
+  name: Emily
+  surname: Macmillan
+  thumbnailUrl: Emily.jpg
+
+- 
+  id: justin
+  name: "Justin"
+  surname: "Watts"
+  company: "Loblaw Digital"
+  title: "Test Automation Lead"
+  bio: "Justin thrives in the realmwhere humans and machines meet. He is passionate about creating innovative products and services."
+  thumbnailUrl: JustinWatts2.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/tk8817"}
+    - {name: "site", link: "http://tk8817.github.io"}
